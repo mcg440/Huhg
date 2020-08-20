@@ -1,2 +1,2 @@
-Version: 20200820Fix2.0(SMG)
+Version: 20200821(SMG)
 提示文本: 加群897818395以追踪更新(AutoPatch)
