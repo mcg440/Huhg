@@ -1,2 +1,2 @@
-Version: 20200820(SMG)
-提示文本: 加群897818395(AutoPatch)
+Version: 20200820Fix(SMG)
+提示文本: 加群897818395下载修复版(AutoPatch)
