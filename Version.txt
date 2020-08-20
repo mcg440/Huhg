@@ -1,2 +1,2 @@
-Version20200820(SMG)
+Version: 20200820(SMG)
 提示文本: (AutoPatch)
