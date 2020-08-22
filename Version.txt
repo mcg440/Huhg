@@ -1,8 +1,8 @@
 Version: 20200823(SMG)
 公告: 
 [换行符1]SMG小卖部SMG-LM.kamiwu.cn
-[换行符2]购买SMG加冷冥QQ
-[换行符3]1120902150
+[换行符2]购买SMG加冷冥QQ: 1120902150
+[换行符3]冷冥新项目SHMILY魔改水影很快更新
 (Free)
 提示文本: 加群897818395以追踪更新(AutoPatch)
-实时提示文本: 冷冥新项目SHMILY魔改水影将很快更新(LengMing)
+实时提示文本: TESTLOG(LengMing)
