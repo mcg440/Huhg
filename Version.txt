@@ -6,4 +6,4 @@ Version: 20200823VersionCheckFixed(SMG)
 [换行符4]加群897818395, 原来的版本更新上的群号是错的
 (Free)
 提示文本: 加群897818395以追踪更新(AutoPatch)
-实时提示文本: 火速加群897818395, 统计一下有多少人用AutoPatch(LengMing)
+实时提示文本: L(LengMing)
