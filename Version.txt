@@ -1,4 +1,4 @@
-Version: 20200823VersionCheckFixed(SMG)
+Version: 20200823VersionCheckFixed1(SMG)
 公告: 
 [换行符1]SMG小卖部SMG-LM.kamiwu.cn
 [换行符2]购买SMG加冷冥QQ: 1120902150
